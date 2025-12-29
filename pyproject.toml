@@ -1,0 +1,17 @@
+[project]
+name = "nn-exercise"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "attrs>=25.4.0",
+    "decorator>=5.2.1",
+    "numpy>=2.4.0",
+    "psutil>=7.2.1",
+    "scipy>=1.16.3",
+    "torch>=2.9.1",
+    "torchvision>=0.24.1",
+    "tornado>=6.5.4",
+    "typing-extensions>=4.15.0",
+]
